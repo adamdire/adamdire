@@ -1,6 +1,6 @@
-- 👋 I'm born and raised in Twin Cities
-- 👀 Currently studying Computer Science at the University of Minnesota
-- ⚡ My interests lies in computer security and applied cryptography
+- 🌍 I'm born and raised in Twin Cities
+- ⚡️ Currently studying Computer Science at the University of Minnesota
+- 🔐 My interests lies in computer security and applied cryptography
 - 📫 You can reach me at aaadire@gmail.com
 
 <!---
