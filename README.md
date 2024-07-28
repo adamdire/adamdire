@@ -1,7 +1,6 @@
-- 🌍 Born and raised in Twin Cities
-- ⚡️ Currently studying Computer Science at the University of Minnesota
-- 🔐 Interested in computer security and applied cryptography
-- 📫 Contact me at aaadire@gmail.com
+Hello, world! I'm Adam.
+
+I'm a computer science student at the University of Minnesota, interested in cs theory and cryptography.
 
 <!---
 adamdire/adamdire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
